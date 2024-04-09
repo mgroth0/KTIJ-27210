@@ -1,0 +1,4 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<android:manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" xmlns:tools="http://schemas.android.com/tools">
+	<uses-sdk android:minSdkVersion="33" android:targetSdkVersion="33"/>
+</android:manifest>
